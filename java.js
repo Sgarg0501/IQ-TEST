@@ -55,7 +55,7 @@ if(q5=="14") {c++;}
 result.textContent=`${c}`;
 if(c==5)
 {
-  alert("Congratulations U+1F3C6 You got 5/5 points!")
+  alert("Congratulations You got 5/5 points!")
 }
 else if(c==4)
 {
